@@ -1,0 +1,6 @@
+{
+  "name": "DOCTOR JI",
+  "description": "AI health assistant for prescription analysis, lab report interpretation, and related medicine discussion points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
